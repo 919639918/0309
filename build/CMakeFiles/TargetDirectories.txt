@@ -1,0 +1,8 @@
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/Tiny.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/edit_cache.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/rebuild_cache.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/list_install_components.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/install.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/install/local.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/install/strip.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/build/CMakeFiles/Tiny_autogen.dir

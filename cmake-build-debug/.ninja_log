@@ -1,0 +1,14 @@
+# ninja log v5
+24	544	7000510543729883	Tiny_autogen/timestamp	de70950de2115dcb
+24	544	7000510543729883	Tiny_autogen/mocs_compilation.cpp	de70950de2115dcb
+9360	10848	7000510646233384	Tiny.exe	bc552ae3cd399e7a
+1625	6963	7000510061192754	CMakeFiles/Tiny.dir/Tiny_autogen/mocs_compilation.cpp.obj	ee0c3245492ba1ad
+24	544	7000510543729883	C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/Tiny_autogen/mocs_compilation.cpp	de70950de2115dcb
+24	544	7000510543729883	C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/Tiny_autogen/timestamp	de70950de2115dcb
+1964	4582	7000503828295340	CMakeFiles/Tiny.dir/widget.cpp.obj	e06b433c208d329d
+563	9359	7000510631483190	CMakeFiles/Tiny.dir/main.cpp.obj	4cd3b63e6c864c65
+8	1539	7000514751488062	build.ninja	2e81afdd23bbf6a5
+1505	1605	7000510007971471	Tiny_autogen/EWIEGA46WW/qrc_config.cpp	989975a2faf10719
+1505	1605	7000510007971471	C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/Tiny_autogen/EWIEGA46WW/qrc_config.cpp	989975a2faf10719
+1605	1874	7000510010708784	CMakeFiles/Tiny.dir/Tiny_autogen/EWIEGA46WW/qrc_config.cpp.obj	398ef19d7789befa
+1618	7015	7000510061893511	CMakeFiles/Tiny.dir/myserver.cpp.obj	cf882d49c626c480

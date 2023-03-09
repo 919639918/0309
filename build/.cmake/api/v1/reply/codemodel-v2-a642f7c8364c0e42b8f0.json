@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6052cefcec77406c91a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tiny",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tiny::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tiny-Debug-423dc03c9ee5199fc491.json",
+					"name" : "Tiny",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tiny_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tiny_autogen-Debug-88c000cf8b4630393452.json",
+					"name" : "Tiny_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QtProject/Qt6Pro-Cmake/Tiny/build",
+		"source" : "C:/QtProject/Qt6Pro-Cmake/Tiny"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

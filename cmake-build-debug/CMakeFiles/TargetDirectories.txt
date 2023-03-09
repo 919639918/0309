@@ -1,0 +1,9 @@
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/Tiny.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/install.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/install/local.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/Tiny_autogen_timestamp_deps.dir
+C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/Tiny_autogen.dir

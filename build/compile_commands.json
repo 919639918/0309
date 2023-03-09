@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/QtProject/Qt6Pro-Cmake/Tiny/build",
+  "command": "C:\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tiny.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tiny.dir\\Tiny_autogen\\mocs_compilation.cpp.obj -c C:\\QtProject\\Qt6Pro-Cmake\\Tiny\\build\\Tiny_autogen\\mocs_compilation.cpp",
+  "file": "C:/QtProject/Qt6Pro-Cmake/Tiny/build/Tiny_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "C:/QtProject/Qt6Pro-Cmake/Tiny/build",
+  "command": "C:\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tiny.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tiny.dir\\main.cpp.obj -c C:\\QtProject\\Qt6Pro-Cmake\\Tiny\\main.cpp",
+  "file": "C:/QtProject/Qt6Pro-Cmake/Tiny/main.cpp"
+},
+{
+  "directory": "C:/QtProject/Qt6Pro-Cmake/Tiny/build",
+  "command": "C:\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tiny.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tiny.dir\\myserver.cpp.obj -c C:\\QtProject\\Qt6Pro-Cmake\\Tiny\\myserver.cpp",
+  "file": "C:/QtProject/Qt6Pro-Cmake/Tiny/myserver.cpp"
+},
+{
+  "directory": "C:/QtProject/Qt6Pro-Cmake/Tiny/build",
+  "command": "C:\\Qt6\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/Tiny.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Tiny.dir\\Tiny_autogen\\EWIEGA46WW\\qrc_config.cpp.obj -c C:\\QtProject\\Qt6Pro-Cmake\\Tiny\\build\\Tiny_autogen\\EWIEGA46WW\\qrc_config.cpp",
+  "file": "C:/QtProject/Qt6Pro-Cmake/Tiny/build/Tiny_autogen/EWIEGA46WW/qrc_config.cpp"
+}
+]

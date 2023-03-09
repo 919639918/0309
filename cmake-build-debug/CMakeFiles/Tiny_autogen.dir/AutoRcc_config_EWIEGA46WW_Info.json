@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/Tiny_autogen",
+	"CMAKE_BINARY_DIR" : "C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/QtProject/Qt6Pro-Cmake/Tiny",
+	"CMAKE_SOURCE_DIR" : "C:/QtProject/Qt6Pro-Cmake/Tiny",
+	"INCLUDE_DIR" : "C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/Tiny_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/Tiny_autogen.dir/AutoRcc_config_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "config" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_config.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt6/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/QtProject/Qt6Pro-Cmake/Tiny/cmake-build-debug/CMakeFiles/Tiny_autogen.dir/AutoRcc_config_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/QtProject/Qt6Pro-Cmake/Tiny/config.qrc",
+	"VERBOSITY" : 0
+}
